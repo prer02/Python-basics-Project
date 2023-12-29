@@ -21,14 +21,7 @@ for i in list1:
             print(i)
 
 
-# In[2]:
 
-
-def ss(a):
-    return a.upper()
-
-s=map(ss,("apple","banana","pear"))
-print(list(s))
 
 
 # In[ ]:
